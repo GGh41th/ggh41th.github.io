@@ -1,5 +1,5 @@
 ---
-title: "Controller-Runtime: Manager"
+title: "Controller-Runtime: The Manager"
 categories: [Kubernetes, Operators]
 tags: [kubernetes,operators,controller-runtime]
 description: A deep dive into the Manager component of the controller-runtime library.
